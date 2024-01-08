@@ -30,8 +30,8 @@
     <td>Contributors</td>
   </tr>
   <tr align=center>
-    <td><a href="https://github.com/xiaomi-8550/android_device_xiaomi_fuxi">Xiaomi 13</a></td>
-    <td><a href="https://github.com/xiaomi-8550/android_device_xiaomi_fuxi/graphs/contributors"><img src="https://contrib.rocks/image?repo=xiaomi-8550/android_device_xiaomi_fuxi&max=12"></a></td>
+    <td><a href="https://github.com/xiaomi-8550/android_device_xiaomi_fuxi">Xiaomi 13 + 13 Pro</a></td>
+    <td><a href="https://github.com/xiaomi-8550/android_device_xiaomi_fuxi/graphs/contributors"><img src="https://contrib.rocks/image?repo=xiaomi-8550/android_device_xiaomi_xiaomi13&max=12"></a></td>
   </tr>
   <!-- Uncomment the following lines after making repo public -->
   <!--
