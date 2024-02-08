@@ -30,15 +30,11 @@
     <td>Contributors</td>
   </tr>
   <tr align=center>
-    <td><a href="https://github.com/xiaomi-8550/android_device_xiaomi_fuxi">Xiaomi 13 + 13 Pro</a></td>
-    <td><a href="https://github.com/xiaomi-8550/android_device_xiaomi_fuxi/graphs/contributors"><img src="https://contrib.rocks/image?repo=xiaomi-8550/android_device_xiaomi_xiaomi13&max=12"></a></td>
+    <td><a href="https://github.com/xiaomi-8550/android_device_xiaomi_xiaomi13">Xiaomi 13 + 13 Pro</a></td>
+    <td><a href="https://github.com/xiaomi-8550/android_device_xiaomi_xiaomi13/graphs/contributors"><img src="https://contrib.rocks/image?repo=xiaomi-8550/android_device_xiaomi_xiaomi13&max=12"></a></td>
   </tr>
   <!-- Uncomment the following lines after making repo public -->
   <!--
-  <tr align=center>
-    <td><a href="https://github.com/xiaomi-8550/android_device_xiaomi_nuwa">Xiaomi 13 Pro</a></td>
-    <td><a href="https://github.com/xiaomi-8550/android_device_xiaomi_nuwa/graphs/contributors"><img src="https://contrib.rocks/image?repo=xiaomi-8550/android_device_xiaomi_nuwa&max=12"></a></td>
-  </tr>
   <tr align=center>
     <td><a href="https://github.com/xiaomi-8550/android_device_xiaomi_ishtar">Xiaomi 13 Ultra</a></td>
     <td><a href="https://github.com/xiaomi-8550/android_device_xiaomi_ishtar/graphs/contributors"><img src="https://contrib.rocks/image?repo=xiaomi-8550/android_device_xiaomi_ishtar&max=12"></a></td>
