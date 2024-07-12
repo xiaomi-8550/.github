@@ -19,26 +19,6 @@
 <a href="https://www.mi.com/xiaomi-13"><img src="https://img.shields.io/badge/Xiaomi%2013-ff6900?style=flat-square&logo=xiaomi&logoColor=ffffff"></a>
 <a href="https://www.mi.com/xiaomi-13-pro"><img src="https://img.shields.io/badge/Xiaomi%2013%20Pro-ff6900?style=flat-square&logo=xiaomi&logoColor=ffffff"></a>
 <a href="https://www.mi.com/xiaomi-13-ultra"><img src="https://img.shields.io/badge/Xiaomi%2013%20Ultra-ff6900?style=flat-square&logo=xiaomi&logoColor=ffffff"></a>
+<a href="https://www.po.co/global/product/poco-f6-pro"><img src="https://img.shields.io/badge/Redmi%20K70%20%2F%20POCO%20F6%20Pro-ff6900?style=flat-square&logo=xiaomi&logoColor=ffffff"></a>
 </p>
-
-<h2 align=center>Contributors</h2>
-
-<div align=center>
-<table>
-  <tr align=center>
-    <td>Project</td>
-    <td>Contributors</td>
-  </tr>
-  <tr align=center>
-    <td><a href="https://github.com/xiaomi-8550/android_device_xiaomi_xiaomi13">Xiaomi 13 + 13 Pro</a></td>
-    <td><a href="https://github.com/xiaomi-8550/android_device_xiaomi_xiaomi13/graphs/contributors"><img src="https://contrib.rocks/image?repo=xiaomi-8550/android_device_xiaomi_xiaomi13&max=12"></a></td>
-  </tr>
-  <!-- Uncomment the following lines after making repo public -->
-  <!--
-  <tr align=center>
-    <td><a href="https://github.com/xiaomi-8550/android_device_xiaomi_ishtar">Xiaomi 13 Ultra</a></td>
-    <td><a href="https://github.com/xiaomi-8550/android_device_xiaomi_ishtar/graphs/contributors"><img src="https://contrib.rocks/image?repo=xiaomi-8550/android_device_xiaomi_ishtar&max=12"></a></td>
-  </tr>
-  -->
-</table>
 </div>
